@@ -1,7 +1,7 @@
 <template>
     <div id="app" class="flex flex-col items-center">
         <div id="content">
-            <h1>INF Paper Wallet</h1>
+            <h1>INFI Paper Wallet</h1>
             <span class="text-center">Generate Your Own Unique Passphrase and Address</span>
 
             <router-view />
@@ -25,7 +25,7 @@
             <div class="flex flex-col text-gray-500 text-center mt-10 mb-5 print-ignore">
                 <span class="text-sm mt-2">
                     Made with ❤️
-                    <a class="inline-link" href="https://explorer.infinitysolutions.io" target="_blank">INF.io</a> | <a class="inline-link" href="https://github.com/Plusid/paper-wallet" target="_blank">View source</a>
+                    <a class="inline-link" href="https://explorer.infinitysolutions.io" target="_blank">INFI.io</a> | <a class="inline-link" href="https://github.com/Plusid/paper-wallet" target="_blank">View source</a>
                 </span>
             </div>
         </div>
