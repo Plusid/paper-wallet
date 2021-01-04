@@ -66,4 +66,4 @@ This project exists thanks to all the people who [contribute](../../contributors
 
 ## License
 
-[MIT](LICENSE) © [INF](https://infinitysolutions.io)
+[MIT](LICENSE) © [INFI](https://infinitysolutions.io)
