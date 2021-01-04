@@ -6,7 +6,7 @@ class Config {
 
     public constructor() {
         if (!this.get("token")) {
-            this.set("token", "INF");
+            this.set("token", "INFI");
         }
 
         if (!this.get("network")) {
