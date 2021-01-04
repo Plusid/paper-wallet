@@ -1,7 +1,7 @@
 import { IToken } from "./interfaces";
 
 export const tokens: Record<string, IToken> = {
-    inf: {
+    infi: {
         name: "INFI",
         networks: {
             mainnet: {
