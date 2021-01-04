@@ -1,7 +1,7 @@
 # INF Paper Wallet
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com//paper-wallet/master/banner.png" />
+    <img src="https://raw.githubusercontent.com/InfinitySoftwareLTD/core-master-INFI/chore/bridgechain-changes/banner_infi.png" />
 </p>
 
 
