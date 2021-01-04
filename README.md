@@ -21,7 +21,7 @@ If the network you want to use is not listed in the dropdown, you can switch to 
 
 ### Requirements
 
-The INF Paperwallet has the following requirements:
+The INFI Paperwallet has the following requirements:
 
 -   [Node](https://nodejs.org/)
 -   [Yarn (Optional but recommended)](https://yarnpkg.com)
