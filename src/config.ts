@@ -10,7 +10,7 @@ class Config {
         }
 
         if (!this.get("network")) {
-            this.set("network", "Devnet");
+            this.set("network", "Mainnet");
         }
 
         this.load();
