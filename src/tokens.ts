@@ -10,7 +10,7 @@ export const tokens: Record<string, IToken> = {
             },
             devnet: {
                 addressPrefix: 137,
-                wif: 100,
+                wif: 104,
             },
         },
     },
