@@ -16,6 +16,6 @@ git add -A
 git commit -m 'deploy [ci skip]'
 
 # deploy
-git push -f git@github.com:ArkEcosystem/paper-wallet.git master:gh-pages
+git push -f git@github.com:Plusid/paper-wallet.git master:gh-pages
 
 cd -
